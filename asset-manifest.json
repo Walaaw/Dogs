@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Dogs/static/css/main.bd828859.css",
+    "main.js": "/Dogs/static/js/main.0585808b.js",
+    "static/js/787.efefe6ef.chunk.js": "/Dogs/static/js/787.efefe6ef.chunk.js",
+    "static/media/fa-solid-900.ttf": "/Dogs/static/media/fa-solid-900.b1a653db79258eeccc5d.ttf",
+    "static/media/fa-brands-400.ttf": "/Dogs/static/media/fa-brands-400.450a5c898f0b184b968b.ttf",
+    "static/media/fa-solid-900.woff2": "/Dogs/static/media/fa-solid-900.41c0f706d8ce93933771.woff2",
+    "static/media/fa-brands-400.woff2": "/Dogs/static/media/fa-brands-400.3ac6859b28be946745f9.woff2",
+    "static/media/fa-regular-400.ttf": "/Dogs/static/media/fa-regular-400.3cd9fb8fcec4ad0f99d4.ttf",
+    "static/media/fa-regular-400.woff2": "/Dogs/static/media/fa-regular-400.1f3772178d9e5bed38a6.woff2",
+    "static/media/fa-v4compatibility.ttf": "/Dogs/static/media/fa-v4compatibility.e314b618134d5be20996.ttf",
+    "static/media/fa-v4compatibility.woff2": "/Dogs/static/media/fa-v4compatibility.4ee7f902d88f819e251c.woff2",
+    "index.html": "/Dogs/index.html",
+    "main.bd828859.css.map": "/Dogs/static/css/main.bd828859.css.map",
+    "main.0585808b.js.map": "/Dogs/static/js/main.0585808b.js.map",
+    "787.efefe6ef.chunk.js.map": "/Dogs/static/js/787.efefe6ef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd828859.css",
+    "static/js/main.0585808b.js"
+  ]
+}
