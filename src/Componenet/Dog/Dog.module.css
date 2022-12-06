@@ -1,0 +1,16 @@
+.dog{
+    height: 300px;
+}
+.dogname{
+    color: #69658E;
+}
+.title{
+    color: #2A325E;
+}
+.box{
+    height: 480px;
+    transition: all 0.5s;
+}
+.box:hover{
+    transform: scale(1.03);
+}
